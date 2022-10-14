@@ -37,6 +37,9 @@ jobs:
 
 
 -----
+ talves no npm ci add 
+ npm ci --legacy-peers-deps
+----
 
 add no final do arquivo .storybook/main.cjs
 
