@@ -160,5 +160,20 @@ storybook-static
 
 -----
 
+### Addons de acessibilidade
+
+addons a11y
+
+npm install @storybook/addon-a11y
+
+add em main.cjs
+
+em addons ...
+
+  "@storybook/addon-a11y"
+
+com isso conseguimos validar a acessibilidade .. contraste ... 
+  
+
 
 
